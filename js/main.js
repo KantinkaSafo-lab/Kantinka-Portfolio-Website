@@ -15,7 +15,7 @@ var swiper = new Swiper(".reviews-content", {
 	spaceBetween: 30,
 	centeredSlides: true,
 	autoplay: {
-		delay: 000,
+		delay: 1000,
 		disableOnInteraction: true,
 	},
 	pagination: {
