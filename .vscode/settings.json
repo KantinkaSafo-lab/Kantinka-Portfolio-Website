@@ -2,5 +2,6 @@
     "cSpell.words": [
         "Blackmind",
         "Kantinka"
-    ]
+    ],
+    "livePreview.defaultPreviewPath": "/index.html"
 }
